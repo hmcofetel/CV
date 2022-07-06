@@ -221,16 +221,32 @@ p
 .project .name-project ul 
 {
 	list-style-type: none;
+	margin-top: 5px;
+}
+
+.project ul 
+{
+	list-style-type: none;
 }
 
 .project .name-project  
 {
-	padding-bottom: 20px;
+	
+	margin-bottom: 20px;
+}
+
+.project .name-project  a
+{
+	color:#848c90 ;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-decoration: none;
+
 }
 
 .project .name-project  ul li p
 {
-	padding-bottom: 5px;
+	margin-bottom: 10px;
 }
 
 @media (max-width: 1000px)
