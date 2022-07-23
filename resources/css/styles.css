@@ -183,6 +183,17 @@ body
 	font-weight: 300;
 }
 
+.thisCV
+{
+	padding-top: 300px;
+}
+
+.thisCV a
+{
+	color: #fff;
+	font-weight: 300;
+}
+
 .container .right-side
 {
 	position: relative;
